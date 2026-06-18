@@ -1,9 +1,7 @@
 # Design Pattern: Decorator
 
-> **Disciplina:** Engenharia de Software  
-> **Categoria:** Padrão Estrutural (Structural Pattern)  
-> **Origem:** Design Patterns — GoF (Gang of Four), 1994  
-> **Data:** Junho de 2025
+> **Disciplina:** Engenharia de Software 
+> **Data:** Junho de 2026
 
 ---
 
