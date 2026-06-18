@@ -1,6 +1,7 @@
 # Design Pattern: Decorator
 
-> **Disciplina:** Engenharia de Software 
+> **Disciplina:** Engenharia de Software
+> **Aluno:** Cauã de Carvalho Paiva
 > **Data:** Junho de 2026
 
 ---
